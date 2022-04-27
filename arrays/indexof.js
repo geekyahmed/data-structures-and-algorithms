@@ -5,7 +5,7 @@ function searchForPosition(array, value) {
 
     if (position >= 0)
         console.log('Found value: ' + value + ' at ' + position)
-    else if (position >=0 && lastPos >= 0) {
+    else if (position >= 0 && lastPos >= 0) {
         console.log('First Position ' + value + ' at ' + position)
         console.log('Last Position ' + value + ' at ' + lastPos)
     } else
