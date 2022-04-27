@@ -6,4 +6,3 @@ console.log(names.concat(newNames))
 
 //Concat and sort
 console.log(names.concat(newNames).sort())
-
